@@ -104,6 +104,7 @@ font-family: 'Archivo', sans-serif;
 
 #map
 {
+	position: relative;
  width: 450px;
  height: 467px;
  float:left;
