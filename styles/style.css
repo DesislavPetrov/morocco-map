@@ -1,23 +1,23 @@
 @media screen and (orientation: portrait) 
-{	.modal-content {
+{	.all {
     width: 50%;
 }
 }
 
 @media screen and (orientation: landscape)
-{	.modal-content {
+{	.all {
     width: 95%;
 }
 }
 
 @media screen and (min-width: 1000px)
-{	.modal-content {
+{	.all {
     width: 934px;
 }
 }
 
 @media screen and (min-width: 1200px)
-{	.modal-content {
+{	.all {
     width: 940px;
 }
 }
